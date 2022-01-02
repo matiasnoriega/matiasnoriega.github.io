@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La Cueva del Enano</title>
+    <link>https://matiasnoriega.github.io/</link>
+    <description>Recent content on La Cueva del Enano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 May 2021 22:18:12 -0300</lastBuildDate>
+    
+	<atom:link href="https://matiasnoriega.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>100 Days of Code</title>
+      <link>https://matiasnoriega.github.io/blog/mi-primer-post/</link>
+      <pubDate>Sat, 01 Jan 2022 23:05:35 -0300</pubDate>
+      
+      <guid>https://matiasnoriega.github.io/blog/mi-primer-post/</guid>
+      <description>100 Days of Code - Día 1 Hace bastante tiempo que siempre escuché hablar y leía sobre el desafío 100 Days of Code pero nunca me dí el tiempo para realizarlo. Por momentos pensaba que era algo más para gente que recién se inicia en el mundo IT, bastante efectivo por cierto, para aprender y ganar un conocimiento sólido sobre las bases de algún lenguaje específico.
+Estos días hablando con un amigo (que ya lejos está de ser un novato) me comentó que iba a comenzar con este challenge, para empezar a agarrarle la mano a tecnologías que no le resultan familiares.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://matiasnoriega.github.io/about/</link>
+      <pubDate>Sun, 30 May 2021 22:18:12 -0300</pubDate>
+      
+      <guid>https://matiasnoriega.github.io/about/</guid>
+      <description>Hola, soy Matías 👋 Soy un desarrollador de software / solucionador de problemas que actualmente estudia Licenciatura en Informática en la universidad de mi ciudad natal. De vez en cuando me gusta dar talleres de GIT a compañerxs de la universidad o del trabajo que nunca escucharon sobre los beneficios del control de versiones. Una vez al año colaboro con la organización de la FLISOL local.
+Estos días Actualmente estoy trabajando con Python 🔧, pero siempre estoy dispuesto a aprender nuevas tecnologías 🌱.</description>
+    </item>
+    
+  </channel>
+</rss>
