@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>La Cueva del Enano</title>
+    <title>Murdoc&#39;s Blog</title>
     <link>https://matiasnoriega.github.io/</link>
-    <description>Recent content on La Cueva del Enano</description>
+    <description>Recent content on Murdoc&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 May 2021 22:18:12 -0300</lastBuildDate>
@@ -19,6 +19,16 @@
       <guid>https://matiasnoriega.github.io/blog/mi-primer-post/</guid>
       <description>100 Days of Code - Día 1 Hace bastante tiempo que siempre escuché hablar y leía sobre el desafío 100 Days of Code pero nunca me dí el tiempo para realizarlo. Por momentos pensaba que era algo más para gente que recién se inicia en el mundo IT, bastante efectivo por cierto, para aprender y ganar un conocimiento sólido sobre las bases de algún lenguaje específico.
 Estos días hablando con un amigo (que ya lejos está de ser un novato) me comentó que iba a comenzar con este challenge, para empezar a agarrarle la mano a tecnologías que no le resultan familiares.</description>
+    </item>
+    
+    <item>
+      <title>Eligiendo tecnologías</title>
+      <link>https://matiasnoriega.github.io/blog/eligiendo-tecnologias/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://matiasnoriega.github.io/blog/eligiendo-tecnologias/</guid>
+      <description>Eligiendo Tecnologías Sobre la elección de tecnologías que hice: Fue totalmente arbitraria.
+React React es una herramienta que hace bastantes meses estoy posponiendo empezar a utilizar, ya que estuve más metido con VueJS que me resultó cómodo y práctico en extremo. Tengo entendido que el salto entre los &amp;ldquo;3 grandes de JS&amp;rdquo; no debería ser tan brusco, habiendo pasado por Angular y Vue intuyo que la transición va a ser medianamente amena.</description>
     </item>
     
     <item>
