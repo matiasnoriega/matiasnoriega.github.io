@@ -41,5 +41,15 @@ React React es una herramienta que hace bastantes meses estoy posponiendo empeza
 Estos días Actualmente estoy trabajando con Python 🔧, pero siempre estoy dispuesto a aprender nuevas tecnologías 🌱.</description>
     </item>
     
+    <item>
+      <title>Dia 3</title>
+      <link>https://matiasnoriega.github.io/blog/aws-y-go/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://matiasnoriega.github.io/blog/aws-y-go/</guid>
+      <description>Lo prometido es deuda! Dije que esto iba a ser laxo, y lo es. Ya el tercer día se me demoró un poco por cuestiones de trabajo.
+Hoy estuve investigando un poco sobre Lambdas en AWS y Go. En un principio parecería ser bastante sencillo, pero me interesa ver cómo Golang se puede llegar a relacionar con el servicio de DynamoDB. Estoy buscando material y encontré un curso que parece que justo toca todos estos temas.</description>
+    </item>
+    
   </channel>
 </rss>
