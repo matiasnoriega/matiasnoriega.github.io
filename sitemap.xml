@@ -3,18 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://matiasnoriega.github.io/blog/mi-primer-post/</loc>
-    <lastmod>2022-01-01T23:05:35-03:00</lastmod>
+    <loc>https://matiasnoriega.github.io/blog/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://matiasnoriega.github.io/blog/</loc>
-    <lastmod>2022-01-01T23:05:35-03:00</lastmod>
+    <loc>https://matiasnoriega.github.io/blog/introduccion-aws/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matiasnoriega.github.io/blog/aws-y-go/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://matiasnoriega.github.io/blog/eligiendo-tecnologias/</loc>
     <lastmod>2022-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matiasnoriega.github.io/blog/mi-primer-post/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -25,11 +35,6 @@
   <url>
     <loc>https://matiasnoriega.github.io/</loc>
     <lastmod>2021-05-30T22:18:12-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matiasnoriega.github.io/blog/aws-y-go/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>

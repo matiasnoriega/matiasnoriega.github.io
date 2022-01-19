@@ -12,13 +12,24 @@
     
     
     <item>
-      <title>100 Days of Code</title>
-      <link>https://matiasnoriega.github.io/blog/mi-primer-post/</link>
-      <pubDate>Sat, 01 Jan 2022 23:05:35 -0300</pubDate>
+      <title>Cloud Backend</title>
+      <link>https://matiasnoriega.github.io/blog/introduccion-aws/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://matiasnoriega.github.io/blog/mi-primer-post/</guid>
-      <description>100 Days of Code - Día 1 Hace bastante tiempo que siempre escuché hablar y leía sobre el desafío 100 Days of Code pero nunca me dí el tiempo para realizarlo. Por momentos pensaba que era algo más para gente que recién se inicia en el mundo IT, bastante efectivo por cierto, para aprender y ganar un conocimiento sólido sobre las bases de algún lenguaje específico.
-Estos días hablando con un amigo (que ya lejos está de ser un novato) me comentó que iba a comenzar con este challenge, para empezar a agarrarle la mano a tecnologías que no le resultan familiares.</description>
+      <guid>https://matiasnoriega.github.io/blog/introduccion-aws/</guid>
+      <description>Con el advenimiento de las tecnologías cloud, y el crecimiento exponencial de los servicios que ofrecen las mismas, me parece que a esta altura no empezar a capacitarme en esto sería (como decía un profesor mío) una picardía.
+Es el motivo principal por el cual decidí que voy a tratar de aprovechar los servicios (al menos los más populares) que ofrezca AWS en este caso en particular.
+Estos días, pensando en el mundo serverless, estuve investigando sobre dos servicios en particular: Lambda y API Gateway.</description>
+    </item>
+    
+    <item>
+      <title>Dia 3</title>
+      <link>https://matiasnoriega.github.io/blog/aws-y-go/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://matiasnoriega.github.io/blog/aws-y-go/</guid>
+      <description>Lo prometido es deuda! Dije que esto iba a ser laxo, y lo es. Ya el tercer día se me demoró un poco por cuestiones de trabajo.
+Hoy estuve investigando un poco sobre Lambdas en AWS y Go. En un principio parecería ser bastante sencillo, pero me interesa ver cómo Golang se puede llegar a relacionar con el servicio de DynamoDB. Estoy buscando material y encontré un curso que parece que justo toca todos estos temas.</description>
     </item>
     
     <item>
@@ -32,6 +43,16 @@ React React es una herramienta que hace bastantes meses estoy posponiendo empeza
     </item>
     
     <item>
+      <title>100 Days of Code</title>
+      <link>https://matiasnoriega.github.io/blog/mi-primer-post/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://matiasnoriega.github.io/blog/mi-primer-post/</guid>
+      <description>100 Days of Code - Día 1 Hace bastante tiempo que siempre escuché hablar y leía sobre el desafío 100 Days of Code pero nunca me dí el tiempo para realizarlo. Por momentos pensaba que era algo más para gente que recién se inicia en el mundo IT, bastante efectivo por cierto, para aprender y ganar un conocimiento sólido sobre las bases de algún lenguaje específico.
+Estos días hablando con un amigo (que ya lejos está de ser un novato) me comentó que iba a comenzar con este challenge, para empezar a agarrarle la mano a tecnologías que no le resultan familiares.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://matiasnoriega.github.io/about/</link>
       <pubDate>Sun, 30 May 2021 22:18:12 -0300</pubDate>
@@ -39,16 +60,6 @@ React React es una herramienta que hace bastantes meses estoy posponiendo empeza
       <guid>https://matiasnoriega.github.io/about/</guid>
       <description>Hola, soy Matías 👋 Soy un desarrollador de software / solucionador de problemas que actualmente estudia Licenciatura en Informática en la universidad de mi ciudad natal. De vez en cuando me gusta dar talleres de GIT a compañerxs de la universidad o del trabajo que nunca escucharon sobre los beneficios del control de versiones. Una vez al año colaboro con la organización de la FLISOL local.
 Estos días Actualmente estoy trabajando con Python 🔧, pero siempre estoy dispuesto a aprender nuevas tecnologías 🌱.</description>
-    </item>
-    
-    <item>
-      <title>Dia 3</title>
-      <link>https://matiasnoriega.github.io/blog/aws-y-go/</link>
-      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://matiasnoriega.github.io/blog/aws-y-go/</guid>
-      <description>Lo prometido es deuda! Dije que esto iba a ser laxo, y lo es. Ya el tercer día se me demoró un poco por cuestiones de trabajo.
-Hoy estuve investigando un poco sobre Lambdas en AWS y Go. En un principio parecería ser bastante sencillo, pero me interesa ver cómo Golang se puede llegar a relacionar con el servicio de DynamoDB. Estoy buscando material y encontré un curso que parece que justo toca todos estos temas.</description>
     </item>
     
   </channel>

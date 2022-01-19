@@ -2,7 +2,7 @@
 <html>
 
     <head>
-        <title> Dia 3 &middot; Murdoc&#39;s Blog </title>
+        <title> Cloud Backend &middot; Murdoc&#39;s Blog </title>
 
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -81,13 +81,20 @@
 
         <div class="flex-wrapper">
             <div class="container wrapper">
-                <h1><a href="https://matiasnoriega.github.io/blog/aws-y-go/">Dia 3</a></h1>
-                <span class="post-date">2022-01-06 </span>
+                <h1><a href="https://matiasnoriega.github.io/blog/introduccion-aws/">Cloud Backend</a></h1>
+                <span class="post-date">2022-01-15 </span>
                 <div class="post-content">
-                    <p>Lo prometido es deuda! Dije que esto iba a ser laxo, y lo es. Ya el tercer día se me demoró un poco por cuestiones de trabajo.</p>
-<p>Hoy estuve investigando un poco sobre Lambdas en AWS y Go. En un principio parecería ser bastante sencillo, pero me interesa ver cómo Golang se puede llegar a relacionar con el servicio de DynamoDB. Estoy buscando material y encontré un curso que parece que justo toca todos estos temas.</p>
-<p>Por otro lado también me gustaría documentar bien el proyecto, creando  un roadmap para no perder el hilo y obviamente dejar el código lo más prolijo posible.</p>
-<p>Mientras tanto, esta es la primer entrada más aburrida de todas, solo texto sin ningún tipo de imagen :P</p>
+                    <p><img src="cloud_providers.jpg" alt="Empresas Cloud"></p>
+<p>Con el advenimiento de las tecnologías cloud, y el crecimiento exponencial de los servicios que ofrecen las mismas, me parece que a esta altura no empezar a capacitarme en esto sería (como decía un profesor mío) <em>una picardía</em>.</p>
+<p>Es el motivo principal por el cual decidí que voy a tratar de aprovechar los servicios (al menos los más populares) que ofrezca AWS en este caso en particular.</p>
+<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm1Xqf21l_TSct4zrnwLiUBm6NkW-vi9YVOOuVJER5xo1eB41qPsH6hGNzw7DKNXodl_c&amp;usqp=CAU" alt="API Gateway">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png" alt="Lambda"></p>
+<p>Estos días, pensando en el mundo serverless, estuve investigando sobre dos servicios en particular: Lambda y API Gateway. Realmente estoy sorprendido con la facilidad de uso y acceso a un servicio que nos resuelve un montón de problemas: Se puede decir que el registro en AWS es más complejo que crear una función Lambda funcional dentro de AWS.</p>
+<p><img src="https://miro.medium.com/max/724/1*enySPc_XesSQCUWc8i579Q.png" alt="Arquitectura API Gateway y Lambda"></p>
+<p>Lo mismo corre para API Gateway, y también para la integración entre ambas. Con el correr de los minutos (obviamente siguiendo uno que otro tutorial) pude ubicar todos los elementos en orden y poner en funcionamiento un endpoint funcional, que en un principio devolvía una respuesta mockeada y luego directamente hacía uso de la función Lambda ya creada.</p>
+<p>Inclusive con la posibilidad de crear distintas versiones de funciones en Lambda y &ldquo;stages&rdquo; en API Gateway, y mapear las respuestas en esta última.</p>
+<p>Sin todavía haber involucrado otros servicios de base de datos o almacenamiento, ya empiezo a sentir que fue una buena decisión.</p>
+<p>Eso si&hellip; Ojo que todo se cobra ;)</p>
 
                 </div>
                 
